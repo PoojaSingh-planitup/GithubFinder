@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "@headlessui/react": "^2.2.0",
-<<<<<<< HEAD
     "@reduxjs/toolkit": "^2.6.0",
     "@shadcn/ui": "^0.0.4",
     "@tailwindcss/postcss": "^4.0.0",
@@ -22,15 +21,6 @@
     "react-dom": "^19.0.0",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.2.0",
-=======
-    "@shadcn/ui": "^0.0.4",
-    "@tailwindcss/postcss": "^4.0.0",
-    "cra-template": "1.2.0",
-    "date-fns": "^4.1.0",
-    "react": "^19.0.0",
-    "react-datepicker": "^7.6.0",
-    "react-dom": "^19.0.0",
->>>>>>> 37831ac770ebb535a364f327543cd63f3f6519d2
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
@@ -72,3 +62,4 @@
     "webpack-dev-server": "^5.2.0"
   }
 }
+
